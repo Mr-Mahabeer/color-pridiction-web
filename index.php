@@ -3,6 +3,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Indian Mall</title>
+  <link rel="icon" href="/assets/site_logo.png" type="image/gif" sizes="32x32">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href='https://fonts.googleapis.com/css?family=Amaranth' rel='stylesheet'>
   <link href='https://fonts.googleapis.com/css?family=Arbutus' rel='stylesheet'>
@@ -130,7 +131,8 @@ background:#C0C0C0;
 
     <img src="/assets/diamond.jpg"
       style="width: 30px; height: 34px; position: relative; margin-top: 5px; margin-left: 13px; border-radius: 5px;">
-       <span onclick="location.href='/assets/OrionClub.apk'" style="float:right;margin:19px"><i style="font-size:20px;color:white" class="fa fa-download"></i>
+      <span onclick="location.href='/assets/OrionClub.apk'" style="float:right;margin:19px"><i style="font-size:20px;color:white" class="fa fa-download"></i>
+</span>
   </div>
   <br>
   <div>
@@ -192,11 +194,11 @@ background:#C0C0C0;
   </div>
   <div class="footer"> 
         <center>
-            <button onclick="location.href='person/index.php'" style="float:left;outline:none;" class="footer_btn"><i id="f_home"  class="fa fa-home" style="font-size:25px;color:#0081FF"></i></button>
+            <button onclick="location.href='https://oceanclubs.in/person/index.php'" style="float:left;outline:none;" class="footer_btn"><i id="f_home"  class="fa fa-home" style="font-size:25px;color:#0081FF"></i></button>
             <button  onclick="location.href='#'" style="outline:none;"  class="footer_btn"><i id="f_my" class="far fa-search" style="font-size:25px;color:#696969;color:grey"></i></button>
             
-            <button  onclick="location.href='person/win'" style="outline:none;margin-left: 18%;"  class="footer_btn"><i id="f_my" class="far fa-trophy-alt" style="font-size:25px;color:#696969;color:grey"></i></button>
-            <button  onclick="location.href='#'" style="float:right;outline:none;"  class="footer_btn"><i id="f_my" class="fa fa-user" style="font-size:25px;color:#696969;color:grey"></i></button>
+            <button  onclick="location.href='https://oceanclubs.in/person/win'" style="outline:none;margin-left: 18%;"  class="footer_btn"><i id="f_my" class="far fa-trophy-alt" style="font-size:25px;color:#696969;color:grey"></i></button>
+            <button  onclick="location.href='https://oceanclubs.in/person/home'" style="float:right;outline:none;"  class="footer_btn"><i id="f_my" class="fa fa-user" style="font-size:25px;color:#696969;color:grey"></i></button>
         </center>
           </div>
 </body>
